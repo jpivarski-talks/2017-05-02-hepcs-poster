@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="pivarski-femtocode-poster.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -26,7 +26,7 @@
          offset="0"
          id="stop3761" />
       <stop
-         style="stop-color:#0053ec;stop-opacity:1"
+         style="stop-color:#00158f;stop-opacity:1"
          offset="1"
          id="stop3763" />
     </linearGradient>
@@ -34,12 +34,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3759"
        id="radialGradient3767"
-       cx="835.42114"
-       cy="729.30127"
-       fx="835.42114"
-       fy="729.30127"
+       cx="669.34344"
+       cy="299.3089"
+       fx="669.34344"
+       fy="299.3089"
        r="1490"
-       gradientTransform="matrix(2.2778587,0.58013269,-0.88777362,3.4857937,-420.09575,-1559.638)"
+       gradientTransform="matrix(3.3557299,-0.67323939,0.39028346,1.9453497,-1540.0086,-214.58811)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="293.64969"
-     inkscape:cy="2086.6753"
+     inkscape:zoom="0.35"
+     inkscape:cx="1660.9802"
+     inkscape:cy="2938.8941"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,7 +60,9 @@
      inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -93,12 +95,484 @@
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2987"
          x="1487.9291"
-         y="-2861.3047">Femtocode: query language</tspan><tspan
+         y="-2861.3047"
+         id="tspan3769">Femtocode: query system for HEP</tspan></text>
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.40271494000000002;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3792"
+       width="1325.3202"
+       height="2141.5234"
+       x="141.36879"
+       y="-1863.5692" />
+    <rect
+       y="-1864.958"
+       x="1510.8319"
+       height="2141.5234"
+       width="1325.3202"
+       id="rect3796"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.40271494;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.40271494;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3798"
+       width="2694.7832"
+       height="577.11389"
+       x="141.36879"
+       y="320.87997" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.40271494;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3817"
+       width="840"
+       height="788.57141"
+       x="141.36879"
+       y="-2695.0664" />
+    <rect
+       y="-2695.0664"
+       x="1024.7235"
+       height="788.57141"
+       width="1811.4286"
+       id="rect3836"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.40271494;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3838"
+       y="-1688.8059"
+       x="803.87622"
+       style="font-size:131.14871216px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+       xml:space="preserve"><tspan
+         id="tspan3840"
+         y="-1688.8059"
+         x="803.87622"
+         sodipodi:role="line">High-level language</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:131.14871216px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+       x="2173.3394"
+       y="-1688.8059"
+       id="text3842"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1487.9291"
-         y="-2639.9688"
-         id="tspan3769">and aggregation system for HEP</tspan></text>
+         x="2173.3394"
+         y="-1688.8059"
+         id="tspan3844">Low-level execution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+       x="560.39569"
+       y="-2542.9014"
+       id="text3848"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="560.39569"
+         y="-2542.9014"
+         id="tspan3850">What's a</tspan><tspan
+         sodipodi:role="line"
+         x="560.39569"
+         y="-2442.2075"
+         id="tspan3852">query system?</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3860"
+       y="-2542.9009"
+       x="1929.4647"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+       xml:space="preserve"><tspan
+         id="tspan3864"
+         y="-2542.9009"
+         x="1929.4647"
+         sodipodi:role="line">How it differs from what we do now</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+       x="237.05998"
+       y="473.0455"
+       id="text3870"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="237.05998"
+         y="473.0455"
+         id="tspan3872"
+         style="text-align:start;text-anchor:start">Why not use X?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3874"
+       style="fill:#ffffff;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Utopia;font-style:normal;font-weight:normal;font-size:48px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:start;-inkscape-font-specification:Utopia;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3876"><rect
+           id="rect3878"
+           width="731.35046"
+           height="425.27423"
+           x="200.01021"
+           y="778.48132"
+           style="text-anchor:start;text-align:start;font-size:48px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3880"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3882"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+       transform="translate(-2.8230853,-3189.5242)"><flowRegion
+         id="flowRegion3884"><rect
+           id="rect3886"
+           width="701.04584"
+           height="84.852821"
+           x="213.14218"
+           y="809.79608"
+           style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
+         id="flowPara3888"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">User asks a question, gets an answer quickly enough to <flowSpan
+   style="font-style:italic"
+   id="flowSpan3923">explore</flowSpan> the data.</flowPara></flowRoot>    <flowRoot
+       transform="translate(-2.8230853,-3072.0808)"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+       id="flowRoot3913"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3915"><rect
+           style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+           y="809.79608"
+           x="213.14218"
+           height="84.852821"
+           width="701.04584"
+           id="rect3917" /></flowRegion><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara3919">Like a Google query, but aggregating HEP data, returning histograms.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3925"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+       transform="translate(-2.8230853,-2954.6375)"><flowRegion
+         id="flowRegion3927"><rect
+           id="rect3929"
+           width="701.04578"
+           height="169.13857"
+           x="213.14218"
+           y="809.79608"
+           style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
+         id="flowPara3931"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Embedded within an analysis script: provides sliced projections of the data for the user to fit/plot/analyze any way they want.</flowPara></flowRoot>    <image
+       width="928.5058"
+       height="455.27893"
+       xlink:href="file:///home/pivarski/talks/2017-05-02-hepcs-poster/stack-of-files.png"
+       id="image4037"
+       x="1064.7235"
+       y="-2401.7737" />
+    <image
+       width="293.36224"
+       height="183.3951"
+       xlink:href="file:///home/pivarski/talks/2017-05-02-hepcs-poster/cloudsearch.png"
+       id="image4145"
+       x="2467.416"
+       y="-2465.0754" />
+    <g
+       id="g4335"
+       transform="matrix(4.3770931,0,0,4.3770931,2467.6921,-2199.4594)">
+      <path
+         style="fill:#2c3e50"
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="m 66.896,38.391 c 0,1.819 -1.475,3.295 -3.295,3.295 H 3.295 C 1.475,41.686 0,40.21 0,38.391 V 3.295 C 0,1.476 1.475,0 3.295,0 h 60.306 c 1.82,0 3.295,1.476 3.295,3.295 v 35.096 z" />
+      <rect
+         style="fill:#35495e"
+         id="rect8"
+         height="29.327999"
+         width="60.941002"
+         y="2.802"
+         x="2.9660001" />
+      <polygon
+         style="opacity:0.05;fill:#ffffff"
+         id="polygon10"
+         points="2.966,28.834 57.146,2.802 2.966,2.802 " />
+      <path
+         style="fill:#bdc3c7"
+         inkscape:connector-curvature="0"
+         id="path12"
+         d="m 0,35.233 v 4.643 c 0,1.82 1.475,3.296 3.295,3.296 h 60.306 c 1.82,0 3.295,-1.476 3.295,-3.296 V 35.233 H 0 z" />
+      <rect
+         style="fill:#bdc3c7"
+         id="rect14"
+         height="9.7209997"
+         width="13.676"
+         y="41.146999"
+         x="26.610001" />
+      <rect
+         style="fill:#95a5a5"
+         id="rect16"
+         height="1.572"
+         width="13.833"
+         y="43.662998"
+         x="26.459999" />
+      <rect
+         style="fill:#3b97d3"
+         id="rect18"
+         height="0.58899999"
+         width="12.261"
+         y="5.7399998"
+         x="4.9239998" />
+      <rect
+         style="fill:#f29c1f"
+         id="rect20"
+         height="0.58899999"
+         width="5.3060002"
+         y="7.5089998"
+         x="6.1020002" />
+      <rect
+         style="fill:#f0c419"
+         id="rect22"
+         height="0.58899999"
+         width="6.7199998"
+         y="9.9060001"
+         x="8.6960001" />
+      <rect
+         style="fill:#3b97d3"
+         id="rect24"
+         height="0.58899999"
+         width="6.5240002"
+         y="7.5089998"
+         x="12.312" />
+      <rect
+         style="fill:#4fba6f"
+         id="rect26"
+         height="0.58999997"
+         width="4.717"
+         y="7.5089998"
+         x="19.66" />
+      <rect
+         style="fill:#4fba6f"
+         id="rect28"
+         height="0.58899999"
+         width="6.7199998"
+         y="9.9060001"
+         x="16.596001" />
+      <rect
+         style="fill:#ecf0f1"
+         id="rect30"
+         height="0.58999997"
+         width="5.4320002"
+         y="11.557"
+         x="8.6960001" />
+      <rect
+         style="fill:#4fba6f"
+         id="rect32"
+         height="0.58999997"
+         width="5.4330001"
+         y="11.557"
+         x="15.172" />
+      <rect
+         style="fill:#e57e25"
+         id="rect34"
+         height="0.58999997"
+         width="5.4320002"
+         y="13.325"
+         x="8.6960001" />
+      <rect
+         style="fill:#3b97d3"
+         id="rect36"
+         height="0.58899999"
+         width="5.4320002"
+         y="14.759"
+         x="10.933" />
+      <rect
+         style="fill:#4fba6f"
+         id="rect38"
+         height="0.58899999"
+         width="4.7160001"
+         y="14.759"
+         x="17.421" />
+      <rect
+         style="fill:#3b97d3"
+         id="rect40"
+         height="0.58899999"
+         width="5.4320002"
+         y="16.527"
+         x="12.938" />
+      <rect
+         style="fill:#e64c3c"
+         id="rect42"
+         height="0.58899999"
+         width="2.8329999"
+         y="16.527"
+         x="19.423" />
+      <rect
+         style="fill:#f29c1f"
+         id="rect44"
+         height="0.58999997"
+         width="5.3060002"
+         y="20.653"
+         x="5.9439998" />
+      <rect
+         style="fill:#f0c419"
+         id="rect46"
+         height="0.58999997"
+         width="6.7199998"
+         y="23.051001"
+         x="8.5389996" />
+      <rect
+         style="fill:#4fba6f"
+         id="rect48"
+         height="0.58999997"
+         width="7.8600001"
+         y="20.653"
+         x="15.415" />
+      <rect
+         style="fill:#955ba5"
+         id="rect50"
+         height="0.58999997"
+         width="6.7210002"
+         y="23.051001"
+         x="16.438" />
+      <rect
+         style="fill:#e57e25"
+         id="rect52"
+         height="0.58999997"
+         width="5.4330001"
+         y="24.702"
+         x="8.5389996" />
+      <rect
+         style="fill:#f0c419"
+         id="rect54"
+         height="0.58999997"
+         width="5.4320002"
+         y="24.702"
+         x="15.016" />
+      <rect
+         style="fill:#4fba6f"
+         id="rect56"
+         height="0.58899999"
+         width="5.4330001"
+         y="26.471001"
+         x="8.5389996" />
+      <rect
+         style="fill:#ecf0f1"
+         id="rect58"
+         height="0.58999997"
+         width="5.4320002"
+         y="27.903"
+         x="10.775" />
+      <rect
+         style="fill:#f0c419"
+         id="rect60"
+         height="0.58999997"
+         width="4.7160001"
+         y="27.903"
+         x="17.264" />
+      <rect
+         style="fill:#3b97d3"
+         id="rect62"
+         height="0.58999997"
+         width="2.1619999"
+         y="20.653"
+         x="12.096" />
+      <path
+         style="fill:#24ae5f"
+         inkscape:connector-curvature="0"
+         id="path64"
+         d="m 49.882,20.587 c -1.525,0 -2.766,-1.241 -2.766,-2.767 0,-1.526 1.24,-2.767 2.766,-2.767 1.526,0 2.768,1.24 2.768,2.767 -10e-4,1.526 -1.243,2.767 -2.768,2.767 z m 0,-5.063 c -1.266,0 -2.295,1.03 -2.295,2.296 0,1.265 1.029,2.295 2.295,2.295 1.266,0 2.295,-1.03 2.295,-2.295 0,-1.265 -1.03,-2.296 -2.295,-2.296 z" />
+      <path
+         style="fill:#f29c1f"
+         inkscape:connector-curvature="0"
+         id="path66"
+         d="m 49.882,22.457 c -2.557,0 -4.637,-2.08 -4.637,-4.637 0,-2.558 2.08,-4.638 4.637,-4.638 2.557,0 4.637,2.08 4.637,4.638 0,2.557 -2.081,4.637 -4.637,4.637 z m 0,-7.859 c -1.775,0 -3.223,1.445 -3.223,3.223 0,1.776 1.447,3.222 3.223,3.222 1.777,0 3.223,-1.445 3.223,-3.222 -10e-4,-1.778 -1.446,-3.223 -3.223,-3.223 z" />
+      <path
+         style="fill:#e64c3c"
+         inkscape:connector-curvature="0"
+         id="path68"
+         d="m 51.688,24.562 h -3.613 l -3.129,-1.807 -1.807,-3.128 v -3.613 l 1.807,-3.129 3.129,-1.807 h 3.613 l 3.129,1.807 1.807,3.129 v 3.613 l -1.807,3.128 -3.129,1.807 z m -3.486,-0.471 h 3.361 l 2.908,-1.681 1.682,-2.909 V 16.14 l -1.682,-2.91 -2.908,-1.68 h -3.361 l -2.91,1.68 -1.68,2.91 v 3.361 l 1.68,2.909 2.91,1.681 z" />
+      <path
+         style="fill:#e64c3c"
+         inkscape:connector-curvature="0"
+         id="path70"
+         d="m 52.237,26.605 h -4.709 l -4.076,-2.354 -2.354,-4.077 v -4.708 l 2.354,-4.077 4.076,-2.354 h 4.709 l 4.076,2.354 2.354,4.077 v 4.708 l -2.354,4.077 -4.076,2.354 z M 47.78,25.662 h 4.203 l 3.639,-2.102 2.104,-3.639 V 15.717 L 55.622,12.078 51.983,9.976 H 47.78 l -3.639,2.102 -2.102,3.639 v 4.204 l 2.102,3.639 3.639,2.102 z" />
+      <path
+         style="fill:#e64c3c"
+         inkscape:connector-curvature="0"
+         id="path72"
+         d="m 52.657,28.177 h -5.551 l -4.805,-2.775 -2.776,-4.806 v -5.552 l 2.776,-4.806 4.805,-2.775 h 5.551 l 4.807,2.775 2.775,4.806 v 5.552 l -2.775,4.806 -4.807,2.775 z m -5.299,-0.943 h 5.047 l 4.367,-2.523 2.523,-4.368 V 15.297 L 56.772,10.929 52.405,8.407 h -5.047 l -4.367,2.522 -2.522,4.368 v 5.046 l 2.522,4.368 4.367,2.523 z" />
+      <rect
+         style="fill:#2c3e50"
+         id="rect74"
+         height="27.037001"
+         width="0.472"
+         y="3.7349999"
+         x="34.084" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path76"
+         d="m 50.054,17.765 h -0.188 c 0,-4.049 3.295,-7.345 7.344,-7.345 v 0.189 c -3.945,0 -7.156,3.21 -7.156,7.156 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path78"
+         d="m 42.591,25.11 v -0.189 c 4.012,0 7.275,-3.263 7.275,-7.273 h 0.188 c 0,4.114 -3.348,7.462 -7.463,7.462 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path80"
+         d="m 49.937,17.647 h -0.189 c 0,-3.66 3.4,-6.638 7.582,-6.638 v 0.188 c -4.077,0.001 -7.393,2.895 -7.393,6.45 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path82"
+         d="m 49.995,17.471 h -0.189 c 0,-4.147 2.926,-7.522 6.52,-7.522 v 0.189 c -3.491,0 -6.331,3.289 -6.331,7.333 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path84"
+         d="m 49.937,17.471 h -0.189 c 0,-3.237 3.428,-5.871 7.641,-5.871 v 0.188 c -4.111,0 -7.452,2.549 -7.452,5.683 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path86"
+         d="m 42.001,23.165 v -0.189 c 4.271,0 7.746,-2.391 7.746,-5.328 h 0.189 c 10e-4,3.041 -3.56,5.517 -7.935,5.517 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path88"
+         d="M 46.247,26.878 V 26.69 c 1.994,0 3.619,-4.03 3.619,-8.983 h 0.188 c 0,5.057 -1.709,9.171 -3.807,9.171 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path90"
+         d="m 50.054,17.706 h -0.188 c 0,-2.418 -3.053,-4.386 -6.803,-4.386 v -0.188 c 3.856,0 6.991,2.052 6.991,4.574 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path92"
+         d="m 58.212,19.216 c -4.018,0 -8.287,-0.55 -8.287,-1.568 h 0.188 c 0,0.652 3.328,1.379 8.1,1.379 v 0.189 z" />
+      <path
+         style="fill:#f0c419"
+         inkscape:connector-curvature="0"
+         id="path94"
+         d="m 49.937,17.765 h -0.189 c 0,-1.771 4.393,-3.159 9.998,-3.159 v 0.188 c -5.409,0 -9.809,1.333 -9.809,2.971 z" />
+      <path
+         style="fill:#955ba5"
+         inkscape:connector-curvature="0"
+         id="path96"
+         d="m 49.929,17.672 c 0.002,-0.003 0.008,-0.011 0.008,-0.024 h -0.189 c 0,-0.482 3.418,-0.507 4.104,-0.507 v 0.188 c -2.373,0 -3.802,0.199 -3.923,0.343 z" />
+      <path
+         style="fill:#955ba5"
+         inkscape:connector-curvature="0"
+         id="path98"
+         d="m 50.054,17.647 h -0.188 c 0,-1.151 -1.52,-2.087 -3.385,-2.087 v -0.188 c 1.971,0 3.573,1.021 3.573,2.275 z" />
+      <circle
+         style="fill:#2c3e50"
+         sodipodi:ry="0.46599999"
+         sodipodi:rx="0.46599999"
+         sodipodi:cy="17.82"
+         sodipodi:cx="49.882999"
+         d="m 50.348999,17.82 c 0,0.257364 -0.208635,0.466 -0.466,0.466 -0.257364,0 -0.466,-0.208636 -0.466,-0.466 0,-0.257365 0.208636,-0.466 0.466,-0.466 0.257365,0 0.466,0.208635 0.466,0.466 z"
+         id="circle100"
+         r="0.46599999"
+         cy="17.82"
+         cx="49.882999" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path102"
+         d="m 49.882,18.404 c -0.322,0 -0.584,-0.263 -0.584,-0.584 0,-0.322 0.262,-0.584 0.584,-0.584 0.322,0 0.584,0.262 0.584,0.584 0,0.322 -0.262,0.584 -0.584,0.584 z m 0,-0.932 c -0.191,0 -0.348,0.156 -0.348,0.349 0,0.191 0.156,0.348 0.348,0.348 0.193,0 0.35,-0.156 0.35,-0.348 -10e-4,-0.193 -0.157,-0.349 -0.35,-0.349 z" />
+    </g>
+    <image
+       width="46.986526"
+       height="66.660172"
+       xlink:href="file:///home/pivarski/talks/2017-05-02-hepcs-poster/arrow.png"
+       id="image4747"
+       x="2590.6038"
+       y="-2277.8999" />
   </g>
 </svg>
