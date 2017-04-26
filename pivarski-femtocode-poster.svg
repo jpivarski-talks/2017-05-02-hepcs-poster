@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="pivarski-femtocode-poster.svg">
+   sodipodi:docname="pivarski-femtocode-poster.svg"
+   inkscape:export-filename="/home/pivarski/talks/2017-05-02-hepcs-poster/pivarski-femtocode-poster.png"
+   inkscape:export-xdpi="30.200001"
+   inkscape:export-ydpi="30.200001">
   <defs
      id="defs4">
     <linearGradient
@@ -50,8 +53,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1660.9802"
-     inkscape:cy="2938.8941"
+     inkscape:cx="1517.2288"
+     inkscape:cy="1821.1549"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +64,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="false" />
   <metadata
      id="metadata7">
@@ -232,7 +235,7 @@
            width="701.04584"
            id="rect3917" /></flowRegion><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
-         id="flowPara3919">Like a Google query, but aggregating HEP data, returning histograms.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3919">Like a Google query, but aggregating HEP data, returning (e.g.) histograms.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3925"
        style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
@@ -245,7 +248,7 @@
            y="809.79608"
            style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
          id="flowPara3931"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Embedded within an analysis script: provides sliced projections of the data for the user to fit/plot/analyze any way they want.</flowPara></flowRoot>    <image
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Embedded within an analysis script: provides sliced projections of the data for users to fit/plot/analyze in any way they want.</flowPara></flowRoot>    <image
        width="928.5058"
        height="455.27893"
        xlink:href="file:///home/pivarski/talks/2017-05-02-hepcs-poster/stack-of-files.png"
@@ -261,7 +264,7 @@
        y="-2465.0754" />
     <g
        id="g4335"
-       transform="matrix(4.3770931,0,0,4.3770931,2467.6921,-2199.4594)">
+       transform="matrix(4.3770931,0,0,4.3770931,2467.6924,-2199.4594)">
       <path
          style="fill:#2c3e50"
          inkscape:connector-curvature="0"
@@ -277,7 +280,7 @@
       <polygon
          style="opacity:0.05;fill:#ffffff"
          id="polygon10"
-         points="2.966,28.834 57.146,2.802 2.966,2.802 " />
+         points="57.146,2.802 2.966,2.802 2.966,28.834 " />
       <path
          style="fill:#bdc3c7"
          inkscape:connector-curvature="0"
@@ -574,5 +577,67 @@
        id="image4747"
        x="2590.6038"
        y="-2277.8999" />
+    <path
+       style="color:#000000;fill:none;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1993.2293,1073.7315 -3.2288,-384.14358 -848.5281,0 z"
+       id="path4907"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-3160.6375)"
+       sodipodi:nodetypes="cccc" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+       id="flowRoot4909"
+       transform="translate(2.4414062e-5,0)"><flowRegion
+         id="flowRegion4911"><use
+           x="0"
+           y="0"
+           xlink:href="#path4907"
+           id="use4913"
+           width="2980"
+           height="4213" /></flowRegion><flowPara
+         id="flowPara4915"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Physicists arrange data as sets of files that have to be filtered into progressively smaller sets of files until the final set is small enough for real- <flowSpan
+   style="fill:#ffffff"
+   id="flowSpan4919">tttttt</flowSpan>time data analysis.</flowPara></flowRoot>    <flowRoot
+       transform="translate(1826.4084,-3280.8438)"
+       style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+       id="flowRoot4921"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4923"><rect
+           style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+           y="809.79608"
+           x="213.14218"
+           height="506.52951"
+           width="375.77667"
+           id="rect4925" /></flowRegion><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara4927">Instead, we propose a service that serves aggregated views of analysis object data on demand.</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara4929" /><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara4931">Must be responsive to requests in real-time: ~1 sec for each scan over a dataset.</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara4937" /><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara4939">Aggressive goals!</flowPara></flowRoot>    <g
+       id="g5022"
+       transform="translate(0,140)">
+      <image
+         y="-1369.4946"
+         x="259.78571"
+         id="image5000"
+         xlink:href="file:///home/pivarski/talks/2017-05-02-hepcs-poster/big_query.png"
+         height="878"
+         width="1109" />
+      <rect
+         transform="translate(0,-3160.6375)"
+         y="1791.1428"
+         x="259.78571"
+         height="878"
+         width="1109"
+         id="rect5020"
+         style="color:#000000;fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
