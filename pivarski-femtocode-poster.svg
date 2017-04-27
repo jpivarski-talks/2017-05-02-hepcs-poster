@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1522.9691"
-     inkscape:cy="344.52806"
+     inkscape:cx="1783.837"
+     inkscape:cy="477.34876"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      width="2979.92px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="1914"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -448,7 +448,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1104,12 +1104,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text3842"
-       y="-1688.8059"
+       y="-1688.8063"
        x="2173.3394"
        style="font-size:131.14871216px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
        xml:space="preserve"><tspan
          id="tspan3844"
-         y="-1688.8059"
+         y="-1688.8063"
          x="2173.3394"
          sodipodi:role="line">Low-level execution</tspan></text>
     <text
@@ -1571,7 +1571,7 @@
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia" /><flowPara
          id="flowPara4939"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Must be responsive to requests in real-time: ~1 sec for each scan over a dataset.</flowPara></flowRoot>    <g
-       transform="translate(0,167.10339)"
+       transform="translate(0,172.23645)"
        id="g5022">
       <image
          width="1109"
@@ -1593,7 +1593,7 @@
        xml:space="preserve"
        id="flowRoot5026"
        style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
-       transform="translate(2.1879221,-2430.4838)"><flowRegion
+       transform="translate(2.1879221,-2433.0504)"><flowRegion
          id="flowRegion5028"><rect
            id="rect5030"
            width="1175.6636"
@@ -1603,7 +1603,7 @@
            style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
          id="flowPara5048"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">User writes expressions that pick apart the structure of objects within arbitrary-length lists, to any depth of nesting.</flowPara></flowRoot>    <flowRoot
-       transform="translate(2.1879221,-2307.8034)"
+       transform="translate(2.1879221,-2312.9367)"
        style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
        id="flowRoot5066"
        xml:space="preserve"><flowRegion
@@ -1629,18 +1629,22 @@
        xml:space="preserve"
        id="flowRoot5092"
        style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
-       transform="translate(2.1879221,-2183.8063)"><flowRegion
+       transform="translate(2.1879221,-2191.5064)"><flowRegion
          id="flowRegion5094"><rect
            id="rect5096"
            width="1175.6636"
-           height="131.08958"
+           height="145.23174"
            x="213.14218"
            y="809.79608"
            style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
          id="flowPara5114"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Femtocode query language is distributed in quoted snippets throughout a structured workflow and tree of aggregators (Histogrammar: see <flowSpan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Femtocode query language is distributed in quoted snippets throughout a structured workflow and tree of aggregators.</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara17795">    . </flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowPara17792">(See <flowSpan
    id="flowSpan5116"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">http://histogrammar.org</flowSpan>).</flowPara></flowRoot>    <flowRoot
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:110.00000238%;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">http://histogrammar.org</flowSpan> for histogram abstraction.)</flowPara></flowRoot>    <flowRoot
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Utopia;font-style:normal;font-weight:normal;font-size:144px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:Utopia;font-stretch:normal;font-variant:normal"
        id="flowRoot5118"
        xml:space="preserve"><flowRegion
@@ -1651,7 +1655,7 @@
            width="728.57141"
            id="rect5122" /></flowRegion><flowPara
          id="flowPara5124" /></flowRoot>    <flowRoot
-       transform="translate(2.1879221,-1097.639)"
+       transform="translate(2.1879221,-1095.0725)"
        style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
        id="flowRoot5182"
        xml:space="preserve"><flowRegion
@@ -1665,27 +1669,21 @@
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="flowPara5188">No runtime errors:</flowPara><flowPara
          id="flowPara5204"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"><flowSpan
-           id="flowSpan3143"
-           style="fill:#ffffff">      .   </flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia">      .   </flowPara><flowPara
          id="flowPara5198"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Type system includes min/max ranges of numbers and collection lengths, so that out-of-domain errors are caught at compile-time.</flowPara><flowPara
          id="flowPara5214"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"><flowSpan
-           id="flowSpan3141"
-           style="fill:#ffffff">      .  </flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia">      .  </flowPara><flowPara
          id="flowPara5218"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"><flowSpan
    id="flowSpan5220"
    style="font-weight:bold;text-align:start;text-anchor:start">Examples: </flowSpan><flowSpan
    id="flowSpan5230"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">&quot;x/y&quot;</flowSpan> requires <flowSpan
-   id="flowSpan5232"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">&quot;if y != 0: x/y else: None&quot;</flowSpan></flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">&quot;x/y&quot;<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Utopia;-inkscape-font-specification:Utopia"
+   id="flowSpan17797"> must be </flowSpan>&quot;if y != 0: x/y else: None&quot;</flowSpan>.</flowPara><flowPara
          id="flowPara5250"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"><flowSpan
-           id="flowSpan3139"
-           style="fill:#ffffff">       .   </flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia">       .   </flowPara><flowPara
          id="flowPara5222"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"><flowSpan
    id="flowSpan5224"
@@ -1719,7 +1717,7 @@
            style="fill:#ffffff">           . </flowSpan></flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="flowPara5284">Every expression that compiles returns a result. (For simplicity, recursion is not allowed.)</flowPara></flowRoot>    <g
-       transform="translate(0,-1.9907016)"
+       transform="translate(0,-18.176306)"
        id="g7241">
       <flowRoot
          xml:space="preserve"
@@ -1735,7 +1733,7 @@
              style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
            id="flowPara3744"
            style="font-size:54.46256638px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">No objects at runtime:</flowPara><flowPara
-           style="font-size:19.06189834999999988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238000001218%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia;fill:#ffffff"
+           style="font-size:19.06189919px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara3746">    . </flowPara><flowPara
            style="font-size:54.46256638px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara3748">All nested structures are represented as homogeneous arrays.</flowPara><flowPara
@@ -1760,7 +1758,7 @@
            style="font-size:19.06189919px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara3838">          . </flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-           id="flowPara3762">value         = <flowSpan
+           id="flowPara3762">values        = <flowSpan
    style="fill:#0000ff"
    id="flowSpan3786">[ </flowSpan><flowSpan
    id="flowSpan3870"
@@ -1916,7 +1914,7 @@
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="flowPara6262" /></flowRoot>    <g
        id="g6276"
-       transform="translate(0,-325.07905)">
+       transform="translate(0,-343.0791)">
       <g
          id="g3480"
          transform="translate(-8.2456055,630.57336)">
@@ -2142,7 +2140,7 @@
              y="809.79608"
              style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
            id="flowPara7161"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Each statement may be a branchless, loopless GPU kernel or grouped by size array to minimize CPU passes over data.</flowPara></flowRoot>    </g>
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Each statement may be a branchless, loopless GPU kernel or grouped by array size to minimize CPU passes over data.</flowPara></flowRoot>    </g>
     <g
        id="g17736"
        transform="translate(0,5.509454)">
@@ -2163,7 +2161,7 @@
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#0075ff;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara7227"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#0075ff;fill-opacity:1;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
-   id="flowSpan7307">TTree::Draw</flowSpan> in ROOT (analysis toolkit)</flowPara><flowPara
+   id="flowSpan7307">TTree::Draw</flowSpan> in ROOT (HEP analysis toolkit)</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#007a80;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara7309">minimal disk read and unzip</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#008042;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
@@ -2175,7 +2173,7 @@
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#807100;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara7235">minimal single-threaded loop in C (our goal)</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#ff6400;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
-           id="flowPara7237">same loop on 128 threads on KNL's MCDRAM</flowPara><flowPara
+           id="flowPara7237">same loop on 128 threads in KNL's MCDRAM</flowPara><flowPara
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#ff0000;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara7239">equivalent on Tesla P100-SXM2 GPU</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
@@ -2226,7 +2224,7 @@
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="flowPara17730">Add a constant to an array of 64-bit floats on different systems.</flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
-         id="flowPara17734">The first are disk-limited, the last are memory bandwidth limited.</flowPara></flowRoot>    <g
+         id="flowPara17734">The first are disk limited, the last are memory bandwidth limited.</flowPara></flowRoot>    <g
        id="g10970"
        transform="matrix(1.2941687,0,0,-1.2941687,2178.8345,854.94633)">
       <g
@@ -4847,7 +4845,7 @@
            y="809.79608"
            style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
          id="flowPara14126"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Full analysis uses ~10 TB of input data.</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Typical analysis asks for ~10 TB of input data.</flowPara><flowPara
          id="flowPara15165"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Typical query touches &lt; 1% of the <flowSpan
    style="font-style:italic"
@@ -4855,11 +4853,11 @@
          id="flowPara14130"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Disk read at 40 MB/sec ⇒ 2.6 sec for 1000 disks.</flowPara><flowPara
          id="flowPara14132"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Most full analyses touch &lt; 10% of the <flowSpan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Typical analysis touches &lt; 10% of the <flowSpan
    style="font-style:italic"
    id="flowSpan17771">columns.</flowSpan></flowPara><flowPara
          id="flowPara14138"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• ⇒ fill 1 TB of a cluster's RAM as cache.</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Therefore, fill 1 TB of a cluster's RAM as cache.</flowPara><flowPara
          id="flowPara14140"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">• Cache read at 1 GB/sec ⇒ 0.1 sec for 1000 cores.</flowPara></flowRoot>    <text
        transform="translate(0,-3160.6375)"
