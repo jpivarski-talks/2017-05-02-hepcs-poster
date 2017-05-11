@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1783.837"
-     inkscape:cy="477.34876"
+     inkscape:zoom="0.7"
+     inkscape:cx="2280.8653"
+     inkscape:cy="1957.9936"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6276"
      showgrid="false"
      width="2979.92px"
      inkscape:window-width="1914"
@@ -448,7 +448,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1923,7 +1923,7 @@
            y="1657.2858"
            x="1570"
            height="290"
-           width="722.85712"
+           width="973.375"
            id="rect3461"
            style="color:#000000;fill:#f6f8fa;fill-opacity:1;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <flowRoot
@@ -2006,126 +2006,127 @@
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">  }).<flowSpan
    style="fill:#0000ff"
    id="flowSpan3543">max</flowSpan></flowPara></flowRoot>      </g>
-      <g
-         id="g3514"
-         transform="translate(0,593.84083)">
-        <rect
-           y="-1143.9618"
-           x="1561.7544"
-           height="355.71429"
-           width="1227.1428"
-           id="rect3506"
-           style="color:#000000;fill:#f6f8fa;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <flowRoot
-           transform="matrix(0.88349377,0,0,0.88349377,1395.3113,-1844.6656)"
-           style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
-           id="flowRoot3308"
-           xml:space="preserve"><flowRegion
-             id="flowRegion3310"><rect
-               style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
-               y="809.79608"
-               x="213.14218"
-               height="375.60892"
-               width="1351.5748"
-               id="rect3312" /></flowRegion><flowPara
-             id="flowPara3393"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3593">#0</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3639">**</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3587">muons[]-p</flowSpan>, <flowSpan
-   style="fill:#800080"
-   id="flowSpan3585">2</flowSpan>)</flowPara><flowPara
-             id="flowPara3445"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3595">#1</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3641">+</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3591">#0</flowSpan>, <flowSpan
-   style="fill:#800080"
-   id="flowSpan3583">0.011164</flowSpan>)</flowPara><flowPara
-             id="flowPara3459"
-             style="font-size:15.84617805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">  .  </flowPara><flowPara
-             id="flowPara3447"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3597">#2@size</flowSpan> := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3643">$explodesize</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3609">muons[]</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3611">muons[]</flowSpan>)</flowPara><flowPara
-             id="flowPara3449"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3599">#2</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3645">$explodedata</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3613">#1</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3615">#2@size</flowSpan>, (<flowSpan
-   style="fill:#008000"
-   id="flowSpan3617">muons[]</flowSpan>))</flowPara><flowPara
-             id="flowPara3451"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3601">#3</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3647">$explodedata</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3619">#1</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3621">#2@size</flowSpan>, (<flowSpan
-   style="fill:#008000"
-   id="flowSpan3623">muons[]</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3625">muons[]</flowSpan>))</flowPara><flowPara
-             id="flowPara3453"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3603">#4</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3649">+</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3627">#2</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3629">#3</flowSpan>)</flowPara><flowPara
-             id="flowPara3455"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3605">#5</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3651">$implode</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3631">#4</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3635">muons[]</flowSpan>, <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3655">&quot;max&quot;</flowSpan>)</flowPara><flowPara
-             id="flowPara3457"
-             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"><flowSpan
-   style="fill:#008000"
-   id="flowSpan3607">#6</flowSpan>      := <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3653">$implode</flowSpan>(<flowSpan
-   style="fill:#008000"
-   id="flowSpan3633">#5</flowSpan>, <flowSpan
-   style="fill:#008000"
-   id="flowSpan3637">None</flowSpan>, <flowSpan
-   style="fill:#0000ff"
-   id="flowSpan3657">&quot;max&quot;</flowSpan>)</flowPara></flowRoot>      </g>
+      <rect
+         style="color:#000000;fill:#f6f8fa;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3506"
+         width="1227.1428"
+         height="355.71429"
+         x="1561.7544"
+         y="-550.12097" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3308"
+         style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+         transform="matrix(0.88349377,0,0,0.88349377,1395.3113,-1250.8248)"><flowRegion
+           id="flowRegion3310"><rect
+             id="rect3312"
+             width="1351.5748"
+             height="375.60892"
+             x="213.14218"
+             y="809.79608"
+             style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3393"><flowSpan
+   id="flowSpan3593"
+   style="fill:#008000">#0</flowSpan>      := <flowSpan
+   id="flowSpan3639"
+   style="fill:#0000ff">**</flowSpan>(<flowSpan
+   id="flowSpan3587"
+   style="fill:#008000">muons[]-p</flowSpan>, <flowSpan
+   id="flowSpan3585"
+   style="fill:#800080">2</flowSpan>)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3445"><flowSpan
+   id="flowSpan3595"
+   style="fill:#008000">#1</flowSpan>      := <flowSpan
+   id="flowSpan3641"
+   style="fill:#0000ff">+</flowSpan>(<flowSpan
+   id="flowSpan3591"
+   style="fill:#008000">#0</flowSpan>, <flowSpan
+   id="flowSpan3583"
+   style="fill:#800080">0.011164</flowSpan>)</flowPara><flowPara
+           style="font-size:15.84617805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#ffffff;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3459">  .  </flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3447"><flowSpan
+   id="flowSpan3597"
+   style="fill:#008000">#2@size</flowSpan> := <flowSpan
+   id="flowSpan3643"
+   style="fill:#0000ff">$explodesize</flowSpan>(<flowSpan
+   id="flowSpan3609"
+   style="fill:#008000">muons[]</flowSpan>, <flowSpan
+   id="flowSpan3611"
+   style="fill:#008000">muons[]</flowSpan>)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3449"><flowSpan
+   id="flowSpan3599"
+   style="fill:#008000">#2</flowSpan>      := <flowSpan
+   id="flowSpan3645"
+   style="fill:#0000ff">$explodedata</flowSpan>(<flowSpan
+   id="flowSpan3613"
+   style="fill:#008000">#1</flowSpan>, <flowSpan
+   id="flowSpan3615"
+   style="fill:#008000">#2@size</flowSpan>, (<flowSpan
+   id="flowSpan3617"
+   style="fill:#008000">muons[]</flowSpan>))</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3451"><flowSpan
+   id="flowSpan3601"
+   style="fill:#008000">#3</flowSpan>      := <flowSpan
+   id="flowSpan3647"
+   style="fill:#0000ff">$explodedata</flowSpan>(<flowSpan
+   id="flowSpan3619"
+   style="fill:#008000">#1</flowSpan>, <flowSpan
+   id="flowSpan3621"
+   style="fill:#008000">#2@size</flowSpan>, (<flowSpan
+   id="flowSpan3623"
+   style="fill:#008000">muons[]</flowSpan>, <flowSpan
+   id="flowSpan3625"
+   style="fill:#008000">muons[]</flowSpan>))</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3453"><flowSpan
+   id="flowSpan3603"
+   style="fill:#008000">#4</flowSpan>      := <flowSpan
+   id="flowSpan3649"
+   style="fill:#0000ff">+</flowSpan>(<flowSpan
+   id="flowSpan3627"
+   style="fill:#008000">#2</flowSpan>, <flowSpan
+   id="flowSpan3629"
+   style="fill:#008000">#3</flowSpan>)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3455"><flowSpan
+   id="flowSpan3605"
+   style="fill:#008000">#5</flowSpan>      := <flowSpan
+   id="flowSpan3651"
+   style="fill:#0000ff">$implode</flowSpan>(<flowSpan
+   id="flowSpan3631"
+   style="fill:#008000">#4</flowSpan>, <flowSpan
+   id="flowSpan3635"
+   style="fill:#008000">muons[]</flowSpan>, <flowSpan
+   id="flowSpan3655"
+   style="fill:#0000ff">&quot;max&quot;</flowSpan>)</flowPara><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch"
+           id="flowPara3457"><flowSpan
+   id="flowSpan3607"
+   style="fill:#008000">#6</flowSpan>      := <flowSpan
+   id="flowSpan3653"
+   style="fill:#0000ff">$implode</flowSpan>(<flowSpan
+   id="flowSpan3633"
+   style="fill:#008000">#5</flowSpan>, <flowSpan
+   id="flowSpan3637"
+   style="fill:#008000">None</flowSpan>, <flowSpan
+   id="flowSpan3657"
+   style="fill:#0000ff">&quot;max&quot;</flowSpan>)</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path4120"
+         d="m 1561.7544,-452.05834 1227.1428,0"
+         style="color:#000000;fill:#f6f8fa;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
          width="121.28572"
          height="121.28572"
          xlink:href="file:///home/pivarski/talks/2017-05-02-hepcs-poster/Arrows-Right-Down-2-icon.png"
          id="image3718"
-         x="2315.7859"
+         x="2575.7859"
          y="-702.06409" />
       <flowRoot
          xml:space="preserve"
@@ -2140,10 +2141,60 @@
              y="809.79608"
              style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
            id="flowPara7161"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Each statement may be a branchless, loopless GPU kernel or grouped by array size to minimize CPU passes over data.</flowPara></flowRoot>    </g>
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;font-family:Utopia;-inkscape-font-specification:Utopia">Each non-$ statement can be a branchless, loopless GPU kernel or all statements can be grouped by @size as CPU loops.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.77271323,0,0,0.77271323,2270.4176,-1120.2346)"
+         style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+         id="flowRoot4093"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4095"><rect
+             style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+             y="809.79608"
+             x="213.14218"
+             height="46.457211"
+             width="440.27252"
+             id="rect4097" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:110.00000238%;text-anchor:start;fill:#b3b3b3;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
+           id="flowPara4099">loop over muons[]@size</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4101"
+         style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+         transform="matrix(0.77271323,0,0,0.77271323,2264.1876,-1070.7811)"><flowRegion
+           id="flowRegion4103"><rect
+             id="rect4105"
+             width="440.27252"
+             height="46.457211"
+             x="213.14218"
+             y="809.79608"
+             style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
+           id="flowPara4107"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:110.00000238%;text-anchor:end;fill:#b3b3b3;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia">over #2@size</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5115"
+         style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+         transform="matrix(0.77271323,0,0,0.77271323,2148.6613,-1416.5375)"><flowRegion
+           id="flowRegion5117"><rect
+             id="rect5119"
+             width="257.2533"
+             height="273.92398"
+             x="213.14218"
+             y="809.79608"
+             style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia" /></flowRegion><flowPara
+           id="flowPara5121"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#b3b3b3;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia">physicist unnecessarily wrote these lines in the loop over muon pairs</flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-size:93.26174164px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77271324;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
+         x="2290.6936"
+         y="-720.22644"
+         id="text5123"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5125"
+           x="2290.6936"
+           y="-720.22644">}</tspan></text>
+    </g>
     <g
        id="g17736"
-       transform="translate(0,5.509454)">
+       transform="translate(-20,5.509454)">
       <flowRoot
          transform="matrix(0.70749999,0,0,0.70749999,1290.5378,-61.836771)"
          style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
@@ -2206,7 +2257,7 @@
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#ff0000;font-family:Utopia;-inkscape-font-specification:Utopia"
            id="flowPara7402">57 000 MHz</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.70749999,0,0,0.70749999,1109.1789,-193.83361)"
+       transform="matrix(0.70749999,0,0,0.70749999,1089.1789,-193.83361)"
        style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
        id="flowRoot14027"
        xml:space="preserve"><flowRegion
@@ -2214,15 +2265,15 @@
            style="font-size:100.69386292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:justify;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Utopia;-inkscape-font-specification:Utopia"
            y="809.79608"
            x="213.14218"
-           height="183.38408"
-           width="1187.7366"
+           height="183.38409"
+           width="1324.8032"
            id="rect14031" /></flowRegion><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
-         id="flowPara14051">Microbenchmarks:</flowPara><flowPara
+         id="flowPara14051">Microbenchmarks to get a sense of scale:</flowPara><flowPara
          style="font-size:19.78798676px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="flowPara17732">   . </flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
-         id="flowPara17730">Add a constant to an array of 64-bit floats on different systems.</flowPara><flowPara
+         id="flowPara17730">Just adding a constant to an array of 64-bit floats on different systems.</flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Utopia;-inkscape-font-specification:Utopia"
          id="flowPara17734">The first are disk limited, the last are memory bandwidth limited.</flowPara></flowRoot>    <g
        id="g10970"
